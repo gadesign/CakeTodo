@@ -39,7 +39,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
 <body ng-controller="MainCtrl" class="home container">
     <div class="row">
       <div class="panel panel-default col-sm-8 col-sm-offset-2">
-          <h1 class="panel-heading text-center">Cake TodoList</h1>
+          <h1 class="panel-heading text-center">Cake Todo List</h1>
           <div class="panel panel-body">
               <table class="table">
   <thead>
